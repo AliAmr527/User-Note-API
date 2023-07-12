@@ -1,14 +1,14 @@
 {
   "name": "folder-structure",
   "version": "1.0.0",
-  "description": "",
+  "description": "User-note-API",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ali El-Mallah",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
