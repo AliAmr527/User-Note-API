@@ -1,4 +1,5 @@
 # User-Note-API
+This is my very first project with APIs using NodeJS
 simple User-Note APIs for backend using mongoDB as a Database handler for the project
 # In This Project you will find:
 User APIs to Sign-Up, Sign-In, Alter User Information etc.. <br>
